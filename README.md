@@ -1,1 +1,2 @@
-This repository for practicing git commands
+# This repository for practicing git commands
+problems is good at practicing
