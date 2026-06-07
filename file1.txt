@@ -1,2 +1,4 @@
 some text on file1
 adding some texts
+
+adding new conflct
